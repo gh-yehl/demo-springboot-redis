@@ -1,7 +1,7 @@
 **Springboot + Redis 配置**  
 1 - Redis 配置信息 - application.yml  
 2 - Redis 数据连接配置 - RedisConfig.java  
-    1) 创建Redis连接工厂，支持四种方式:  
+1) 创建Redis连接工厂，支持四种方式:  
         a: JedisConnectionFactory - 非线程安全  
         b: JredisConnectionFactory  
         c: LettuceConnectionFactory - 基于Netty，高性能  

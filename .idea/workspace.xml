@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc4f9ac9-09a4-448a-b647-52504093d447" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kokvRXNO9C5Tu5zPzzpSS9Ni7p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationBoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yehl.redis.ApplicationBoot" />
+      <module name="demo-springboot-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yehl.redis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationBoot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc4f9ac9-09a4-448a-b647-52504093d447" name="Default Changelist" comment="" />
+      <created>1606374561233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606374561233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1606375594796">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="580" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1606375594796" />
+    <state width="1506" height="373" key="GridCell.Tab.0.bottom" timestamp="1606377743601">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="373" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1606377743601" />
+    <state width="1506" height="373" key="GridCell.Tab.0.center" timestamp="1606377743600">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="373" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1606377743600" />
+    <state width="1506" height="373" key="GridCell.Tab.0.left" timestamp="1606377743600">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="373" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1606377743600" />
+    <state width="1506" height="373" key="GridCell.Tab.0.right" timestamp="1606377743601">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="373" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1606377743601" />
+  </component>
+</project>

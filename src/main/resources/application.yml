@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application: springboot-redis
+  data:
+    redis:
+      host: www.curvelife.cn
+      port: 6379
+

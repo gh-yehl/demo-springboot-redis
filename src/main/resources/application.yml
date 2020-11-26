@@ -5,6 +5,6 @@ spring:
   application: springboot-redis
   data:
     redis:
-      host: www.curvelife.cn
+      host: www.baidu.com
       port: 6379
 

@@ -9,6 +9,6 @@
  2) 创建Redis模板(2种Template: RedisTemplate 和 StringRedisTemplate): 注入 Redis连接工厂Bean  
 Demo 采用了  LettuceConnectionFactory 连接工厂模式  和 StringRedisTemplate模板
 
-**Tips**
+**Tips**  
 1 - 使用 JedisConnectionFactory连接工厂模式，会额外需要 commons-pool2 依赖
     
